@@ -2,7 +2,7 @@
 
 ### About Raina 👾 
 ✨ <b>Pronouns</b>: she/her <br>
-After spending my late teens and early twenties learning and working with Chinese and Japanese, I've traded in foreign languages to pursue my passion in programming! 
+After spending my late teens and early twenties learning and working with Chinese and Japanese, I've traded in foreign languages to pursue my passion for programming! 
 
 #### 🎨 Aside from code:
 ✍️ I love to draw pixel art and want to use my own assets to design and make my own game!
@@ -21,8 +21,8 @@ Unity // C# // Java // Python
 English (native) // Chinese (fluent) // Japanese (intermediate)  
 
 #### 💻 I’m currently working on: 
-- A React app utilizing Typescript that will allow users to search for Pokémon, create and save teams they would like to try out in game, favourite Pokémon and any other features dreamt up along the way  
-- Various Unity tutorials to get to grips with basics
+- A React app utilizing Typescript that will allow users to search for Pokémon, create and save teams they would like to try out in-game, favourite Pokémon and any other features dreamt up along the way  
+- Various Unity tutorials to get to grips with the basics
 
 #### 📫 Contact me: 
 - Email: blackettraina@gmail.com
